@@ -32,3 +32,7 @@ Este guia irá detalhar os passos necessários para conectar um microcontrolador
 6. Instale a versão 0.0.3 da livraria Timer-CAM. Vá em "Sketch" > "Incluir Biblioteca" > "Gerenciar Bibliotecas". Busque por "Timer-CAM" e instale a versão 0.0.3.
 
 7. Agora você está pronto para começar a programar e conectar o seu microcontrolador ESP32 utilizando a biblioteca M5Stack.
+
+## Apresentação
+
+Confira a [apresentação](https://docs.google.com/presentation/d/1AOPh-jNl6lPxxkh7l_MXqzSfZ6HPtWycHf4Kqs2Z3vM/edit?usp=sharing) para mais informações sobre o projeto.
