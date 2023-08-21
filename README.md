@@ -13,7 +13,7 @@ Este guia irá detalhar os passos necessários para conectar um microcontrolador
 - Biblioteca da placa M5Stack by M5Stack official:
   - Adicione o seguinte URL ao campo "URLs Adicionais de Placas" em "Preferências" da Arduino IDE:
     ```
-    https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/
+    https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json
     ```
 - Livraria Timer-CAM by M5Stack oficial, versão 0.0.3
 
