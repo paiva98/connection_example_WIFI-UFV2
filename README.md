@@ -1,5 +1,3 @@
-Claro, vou ajudar a transformar o seu texto em um formato adequado para um arquivo README no GitHub:
-
 # Conexão de um Microcontrolador ESP32 no WIFI da UFV utilizando a Biblioteca M5Stack
 
 Este guia irá detalhar os passos necessários para conectar um microcontrolador ESP32 utilizando a biblioteca M5Stack. Certifique-se de atender aos seguintes requisitos antes de começar:
